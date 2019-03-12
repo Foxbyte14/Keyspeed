@@ -183,7 +183,7 @@
                 <a class="footer-link">Undefined</a><a class="footer-link">Undefined</a><a
                     class="footer-link">Undefined</a><br>
                 <br>
-                <br><a style="font-family: 'Rajdhani';">copyright &copy 2019 KeySpeed.com</a>
+                <br><a style="font-family: 'Rajdhani';">copyright © 2019 KeySpeed.com</a>
                 <a style="font-family: 'Rajdhani'; margin-left: 35px;">v 0 . 1 . 3</a><br>
 
                 <div id="updatelog">
